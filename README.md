@@ -9,6 +9,8 @@
 
 ![](screenshots/after.png)
 
+![](screenshots/sample.png)
+
 # 版权声明
 
 该 Workflow 并非官方出品，作者亦不对使用之后的结果承担任何责任，使用之前请仔细阅读以下内容，保管好自己的 webhook 地址，一经使用，视为已经阅读并同意以下内容。
