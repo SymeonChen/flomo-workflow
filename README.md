@@ -1,10 +1,13 @@
 这是一个用于快速把想法记录到 flomo 的 workflow。
 
 # 使用指南
-1. 点击[此处](https://github.com/SymeonChen/flomo-workflow/releases/tag/1.0.0)，下载 workflow
+1. 点击[此处](https://github.com/SymeonChen/flomo-workflow/releases/download/1.0.0/SendToFlomo.alfredworkflow)，下载 workflow
 2. 双击打开，将左侧或右侧 webhook_url 的 value 更换为你自己的 API 地址。
 3. 唤起 Alfred,输入“flomo"并用空格分隔，如”flomo 这是一条测试消息“。
 
+![](screenshots/config.png)
+
+![](screenshots/after.png)
 
 # 版权声明
 
