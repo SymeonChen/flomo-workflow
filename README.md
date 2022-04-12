@@ -47,3 +47,11 @@ symeonchen#gmail.com
 
 ## 我可以把 Workflow 分享给朋友吗？
 无论是分享开源地址下载的 Workflow，或是导出你自己的 Workflow，请务必提前检查是否已经将你的 webhook 地址清除。
+
+# 更新日志
+
+## v1.0 2020
+第一版本用 Python2 编写。
+
+## v2.0 2022/04/13
+MacOs在12.3版本移除了内置的Python2，因此本脚本重构为 ruby 编写。
